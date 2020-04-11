@@ -1,6 +1,10 @@
 $(document).ready(function() {
 
-    console.log("test");
+    //console.log("test");
+
+    console.log(groceryItems);
+
+
 
         // Create an initial toDoCount variable
         var toDoCount = 0;
