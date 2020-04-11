@@ -1,4 +1,8 @@
 var groceryItems = [
+    {
+        item: "peanut butter pretzels",
+        store: "Costco",
+    },
         {
             question: "We can hook onto the event of a user pressing and releasing a key by referring to ____.",
             options: [
